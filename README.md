@@ -54,6 +54,6 @@ Tools         Power BI · LaTeX · SmartPlant Foundation
 ## Currently Looking For
 
 Roles in **Computer Vision**, **AI Engineering**, or **Technical Product Management** in **Germany**.  
-Open to relocation. Blue Card eligible.
+Open to relocation. Valid working visa
 
 📎 [LinkedIn](https://linkedin.com/in/satyasaigattupalli) · 📍 Weimar, Germany
