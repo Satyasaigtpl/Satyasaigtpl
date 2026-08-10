@@ -1,21 +1,22 @@
 <h1 align="center">Hi 👋, I'm Gattupalli Eswar Narayana (Satya)</h1>
 <h3 align="center">Passionate about solving problems, learning new technologies, and leading people to build something meaningful together</h3>
 
-- 🔭 I’m currently working on **Automating reporting with n8n and PowerBI**
-
-- 🌱 I’m currently learning **SAP Data analytics, Agentic AI, AI Project Management certification**
-
-- 🤝 I’m looking for help with **SAP Data analytics**
-
+- 🔭 I'm currently working on **Automating reporting with n8n and PowerBI**
+- 🌱 I'm currently learning **SAP Data analytics, Agentic AI, AI Project Management certification**
+- 🤝 I'm looking for help with **SAP Data analytics**
 - 👨‍💻 All of my projects are available at [https://github.com/Satyasaigtpl](https://github.com/Satyasaigtpl)
-
-- 📝 I regularly write articles on [www.linkedin.com/in/satyasaigattupalli](www.linkedin.com/in/satyasaigattupalli)
-
+- 📝 I regularly write articles on [www.linkedin.com/in/satyasaigattupalli](https://www.linkedin.com/in/satyasaigattupalli)
 - 💬 Ask me about **Process efficiency, People Management, Classical methods in Computer vision**
-
-- 📫 How to reach me **www.linkedin.com/in/satyasaigattupalli**
-
+- 📫 How to reach me **[www.linkedin.com/in/satyasaigattupalli](https://www.linkedin.com/in/satyasaigattupalli)**
 - ⚡ Fun fact **I can stop taking initiatives when I see a problem.**
+
+### 🎓 Thesis
+**Material Based Segmentation in Texture Space** (M.Sc. Digital Engineering, Bauhaus-Universität Weimar)
+Implemented and compared multiple image segmentation approaches, including color based methods in both image space and texture space, for 3D reconstructed models. Built and evaluated a dataset of reconstructed scenes using 3DReshaper/3reCapsl to assess segmentation performance for material estimation. Developed segmentation pipelines combining color, geometric features such as curvature, and illumination variations to improve material separation accuracy, including three pipeline variants built around a Fuzzy C Means clustering approach.
+
+### 🚀 Projects
+- **ResumeAI Pro** — Open source multi LLM resume optimizer that helps tailor resumes against job descriptions using multiple language models.
+- **AxleTech Power BI Dashboard** — A sales performance dashboard built in Power BI using a fictional AxleTech GmbH dataset (750+ rows across 5 EU markets) to demonstrate reporting and data visualization skills.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
